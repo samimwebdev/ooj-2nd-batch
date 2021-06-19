@@ -1,0 +1,6 @@
+Understanding Object
+Understanding Constructor
+Javascript Own Constructor
+javascript constructor(prototype)
+Javascript prototype, Prototype chain 
+Inhertance
